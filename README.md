@@ -27,20 +27,20 @@ Hi. I'm Joshua Kraitberg a 7th semester student at Seneca College enrolled in th
 
 ## Documents
 
-#### [Resume](#)
+#### [Resume](Documents/Resume.pdf)
 
 #### Transcript - [request only](#contact)
 
 ---
 
 #### Artifacts
-* [GaussianBlur CUDA Optimization](#)
+* [GaussianBlur CUDA Optimization](https://wiki.cdot.senecacollege.ca/wiki/BETTERRED)
   * Using an existing tool found on GitHub, CUDA optimizations were added and a performance report was created,
-  * [Example Pic GaussianBlur](#)
+  * [Example Pic GaussianBlur](Artifacts/GaussianBlurCUDA/Cinque_terre_BLURRED.jpg)
 
-* [Turing Raytracer](#)
+* [Turing RayTracer](Artifacts/RayTracer)
   * Created a back when I was  in highschool.  Written in Turing.
-  * [Example Pic Raytrace](Projects/RayTracer/8x SSA.bmp)
+  * [Example Pic Raytrace](Artifacts/RayTracer/8x SSA.bmp)
 
 * [Critical Security Flaw Audit](#)
   * This is ongoing.  Top secret critical flaws were found, currently being reported.
