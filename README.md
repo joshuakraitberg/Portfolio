@@ -28,6 +28,7 @@ Hi. I'm Joshua Kraitberg a 7th semester student at Seneca College enrolled in th
 
 ## [Artifacts](Artifacts)
 This is essentially a showcase of notable work.
+[Click to view](Artifacts)
 
 ## Documents
 
