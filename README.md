@@ -40,7 +40,7 @@ Hi. I'm Joshua Kraitberg a 7th semester student at Seneca College enrolled in th
 
 * [Turing RayTracer](Artifacts/RayTracer)
   * Created a back when I was  in highschool.  Written in Turing.
-  ![Example Pic Raytrace]("Artifacts/RayTracer/8x SSA.png" "This is a rendered image")
+  ![Example Pic Raytrace](Artifacts/RayTracer/example.png "This is a rendered image")
 
 * [Critical Security Flaw Audit](#)
   * This is ongoing.  Top secret critical flaws were found, currently being reported.
