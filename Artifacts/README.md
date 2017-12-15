@@ -18,4 +18,4 @@ This was a long time ago, I can't remember much but I enjoyed writing it.
   * Estimated time of release: **January 2018**.    
 
 ----
-#### [Return to home](https://github.com/jryga/Portfolio)
+#### [Return to home](https://github.com/jryga/Portfolio#top)

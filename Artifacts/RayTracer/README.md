@@ -7,4 +7,4 @@ You can download the original turing at http://compsci.ca/holtsoft/
 A newer open source version is available at http://tristan.hume.ca/openturing/
 
 ----
-#### [Return to home](https://github.com/jryga/Portfolio)
+#### [Return to home](https://github.com/jryga/Portfolio#top)
