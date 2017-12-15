@@ -25,14 +25,15 @@ Hi. I'm Joshua Kraitberg a 7th semester student at Seneca College enrolled in th
   * Created a highly-optimized kernel to accelerate Gaussian Blur algorithm.
   * Profiled and documented performance increases. 
 
+## [Artifacts](Artifacts)
+This is essentially a showcase of notable work.
+
 ## Documents
 
 #### [Resume](Documents/Resume-Public.pdf)
 
 #### Transcript - [request only](#contact)
 
-## [Artifacts](Artifacts)
-This is essentially a showcase of notable work.
 
 <a name="contact"></a>
 ## Contact
