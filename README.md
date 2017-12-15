@@ -33,14 +33,14 @@ Hi. I'm Joshua Kraitberg a 7th semester student at Seneca College enrolled in th
 
 ---
 
-#### Artificats
+#### Artifacts
 * [GaussianBlur CUDA Optimization](#)
   * Using an existing tool found on GitHub, CUDA optimizations were added and a performance report was created,
   * [Example Pic GaussianBlur](#)
 
 * [Turing Raytracer](#)
   * Created a back when I was  in highschool.  Written in Turing.
-  * [Example Pic Raytrace](#)
+  * [Example Pic Raytrace](Projects/RayTracer/8x SSA.bmp)
 
 * [Critical Security Flaw Audit](#)
   * This is ongoing.  Top secret critical flaws were found, currently being reported.
