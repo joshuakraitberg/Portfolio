@@ -17,5 +17,8 @@ This was a long time ago, I can't remember much but I enjoyed writing it.
   * This is ongoing.  Top secret critical flaws were found, currently being reported.
   * Estimated time of release: **January 2018**.    
 
+## [Polytechnics Canada 2017 Interview](http://www.polytechnicscanada.ca/events/polytechnics-canada-annual-conference-2017-0)
+Gave an interview about my job and Seneca College.  The video is apperently hosted on this site somewhere, but I've never been able to find it.
+
 ----
 #### [Return to home](https://github.com/jryga/Portfolio#top)
