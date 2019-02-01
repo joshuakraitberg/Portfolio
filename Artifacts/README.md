@@ -9,16 +9,19 @@ My group and I chose a Gaussian Blur program as our main candidate.
 
 ## [Turing RayTracer](RayTracer)
 Created back when I was in high school.  Written in Turing.
-This was a long time ago, I can't remember much but I enjoyed writing it.
+This was a long time ago, I can't remember much but I enjoyed writing it.  I wrote a lot of things with Turing outside of the classroom during highschool. 
   
 ![Example Pic Raytrace](RayTracer/example.png "This is a rendered image")
   
-## Critical Security Flaws Discovery
+## Critical Security Flaws Discovered at Seneca College
   * This is ongoing.  Top secret critical flaws were found, currently being reported.
-  * Estimated time of release: **January 2018**.    
+  * As of January 2018 flaws have been monkey patched so I will continure to withhold.
+
+## Propsed Degree Program Site Visit
+In 2018 Seneca College proposed a new Data science degree program. I, along with several other students met with the Post-Secondary Quality Assessment Board (Ministry).  We had lunch and discussed the program proposal. 
 
 ## [Polytechnics Canada 2017 Interview](http://www.polytechnicscanada.ca/events/polytechnics-canada-annual-conference-2017-0)
-Gave an interview about my job and Seneca College.  The video is apperently hosted on this site somewhere, but I've never been able to find it.
+Gave an interview about my job and Seneca College.  The video is not hosted anymore.
 
 ----
 #### [Return to home](https://github.com/jryga/Portfolio#top)
