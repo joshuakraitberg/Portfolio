@@ -17,4 +17,4 @@ This is essentially a showcase of notable work.
 <a name="contact"></a>
 ## Contact
 
-jkraitberg@myseneca.ca
+joshua.kraitberg@gmail.com
