@@ -1,5 +1,13 @@
 
 # Artifacts
+
+## Data Structures and Algorithms
+[C++](https://github.com/jryga/C-Algorithms)
+[Python](https://github.com/jryga/PythonAlgorithms)
+
+## [RaidExec](https://github.com/jryga/RaidExec)
+This was my teams capstone project at Seneca College. It was conducted across three-semesters. The original repo was created by our professor and has since been deleted. So I made this repo. Some of the packages and SQL settings might be outdated depending on your visual studios.
+
 ## [Gaussian Blur CUDA Optimization](https://wiki.cdot.senecacollege.ca/wiki/BETTERRED)
 Using an existing tool found on GitHub, CUDA optimizations were added and a performance report was created.
 The goal of this project was to find and asses possible candidate programs for CUDA optimization.
@@ -22,6 +30,11 @@ In 2018 Seneca College proposed a new Data science degree program. I, along with
 
 ## [Polytechnics Canada 2017 Interview](http://www.polytechnicscanada.ca/events/polytechnics-canada-annual-conference-2017-0)
 Gave an interview about my job and Seneca College.  The video is not hosted anymore.
+
+## Other works
+[EarthQuakeFinder - Android app](https://github.com/jryga/EarthQuakeFinder)
+[FoodItemCataloguer - iOS Swift app](https://github.com/jryga/FoodItemCataloguer)
+[Typing Coach - Python](https://github.com/jryga/TypingCoach)
 
 ----
 #### [Return to home](https://github.com/jryga/Portfolio#top)
