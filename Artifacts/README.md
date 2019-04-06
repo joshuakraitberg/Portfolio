@@ -23,7 +23,7 @@ This was a long time ago, I can't remember much but I enjoyed writing it.  I wro
   
 ## Critical Security Flaws Discovered at Seneca College
   * This is ongoing.  Top secret critical flaws were found, currently being reported.
-  * As of January 2018 flaws have been monkey patched so I will continure to withhold.
+  * As of January 2018 flaws have been monkey patched so I will continue to withhold.
 
 ## Propsed Degree Program Site Visit
 In 2018 Seneca College proposed a new Data science degree program. I, along with several other students met with the Post-Secondary Quality Assessment Board (Ministry).  We had lunch and discussed the program proposal. 
