@@ -32,9 +32,9 @@ In 2018 Seneca College proposed a new Data science degree program. I, along with
 Gave an interview about my job and Seneca College.  The video is not hosted anymore.
 
 ## Other works
-[EarthQuakeFinder - Android app](https://github.com/jryga/EarthQuakeFinder)
-[FoodItemCataloguer - iOS Swift app](https://github.com/jryga/FoodItemCataloguer)
-[Typing Coach - Python](https://github.com/jryga/TypingCoach)
+* [EarthQuakeFinder - Android app](https://github.com/jryga/EarthQuakeFinder)
+* [FoodItemCataloguer - iOS Swift app](https://github.com/jryga/FoodItemCataloguer)
+* [Typing Coach - Python](https://github.com/jryga/TypingCoach)
 
 ----
 #### [Return to home](https://github.com/jryga/Portfolio#top)
