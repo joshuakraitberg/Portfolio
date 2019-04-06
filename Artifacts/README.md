@@ -2,8 +2,8 @@
 # Artifacts
 
 ## Data Structures and Algorithms
-[C++](https://github.com/jryga/C-Algorithms)
-[Python](https://github.com/jryga/PythonAlgorithms)
+* [C++](https://github.com/jryga/C-Algorithms)  
+* [Python](https://github.com/jryga/PythonAlgorithms)  
 
 ## [RaidExec](https://github.com/jryga/RaidExec)
 This was my teams capstone project at Seneca College. It was conducted across three-semesters. The original repo was created by our professor and has since been deleted. So I made this repo. Some of the packages and SQL settings might be outdated depending on your visual studios.
